@@ -1,0 +1,100 @@
+.div
+{
+    background: url(111.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.d1
+{
+    text-align: left;
+    margin: auto 0 auto auto;
+    
+}
+.split {
+    height: 100%;
+    width: 17%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+    color: white;
+  }
+  .right {
+    right: 0;
+    background-color: rgb(0, 0, 255, .3);
+  }
+  .khaled {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 35px;
+    margin-top: 10px;
+  }
+  
+  .form
+  {
+    border-color: white;
+    background-color: white;
+    border-style: solid;
+    margin: 80px 400px 0px 350px;
+    padding: 20px 150px 20px 150px;
+    border-radius: 10px 10px 10px 10px;
+  }
+  .form2
+  {
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0px 0px 0px 5px rgb(189, 188, 187, .7);
+    
+  }
+  h1
+  {
+    color: blue;
+    text-align: center;
+    font-size: 45px;
+  }
+  h3
+  {
+    color: gray;
+    text-align: center;
+    font-size: 30px;
+    margin-top: -50px;
+  }
+  input
+  {
+    margin-left: 45px;
+    width: 80%;
+    height: 30px;
+    border: 1px solid gray;
+    border-radius: 30px;
+    text-align: center;
+    box-shadow: 3px 3px 1px 1px  rgb(189, 188, 187, .7) inset;
+  }
+
+  button
+  {
+    color: white; 
+    background-color: blue;
+     height: 35px;
+     margin-left: 45px;
+    width: 80%;
+    border: 1px solid gray;
+    border-radius: 30px;
+    text-align: center;
+  }
+  a
+  {
+    text-decoration: none;
+    padding-bottom: 50px;
+  }
+  .s
+  {
+    text-align: center;
+    color: blue;
+    font-size: 25x;
+  }
